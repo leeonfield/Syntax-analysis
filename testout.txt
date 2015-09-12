@@ -1,0 +1,17 @@
+{	{
+ID	int
+a	a
+;	;
+ID	int
+b	b
+;	;
+ID	int
+c	c
+;	;
+c	c
+=	=
+a	a
++	+
+b	b
+;	;
+}	}
